@@ -1,10 +1,10 @@
 # ML-covid-tests
-Predicting COVID-19 Risk to Improve Outcomes
+Predicting COVID-19 test result outcomes to improve patient outcomes
 
 ## Context
 
 Machine learning project for L7 AI and Data Science Hackathon.  
-This word was inspired by this project https://github.com/nshomron/covidpred uploaded by user nshomrom
+This work was inspired by this project https://github.com/nshomron/covidpred uploaded by user nshomrom
 
 ## Summary
 
