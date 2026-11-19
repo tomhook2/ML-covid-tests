@@ -27,3 +27,5 @@ Who can our recommendations benefit?
 # Notes
 
 Final project output uses COVID_Predictor.ipynb file, with output in output/
+
+Please be aware, content has not been quality assured/peer reviewed.
